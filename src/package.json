@@ -1,0 +1,21 @@
+{
+    "name": "aaf-cpptonight",
+    "mastertemplate": "aaf-cpptonight",
+    "version": "2stable.0.1",
+    "description": "AAF-CPP Tonight",
+    "scripts": {},
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/4bdul4ziz"
+    },
+    "bugs": {
+        "url": "https://github.com/4bdul4ziz",
+        "email": "bb.abdulaziz@gmail.com"
+    },
+    "author": "Abdul A.",
+    "engines": {
+        "node": ">=10.0.0"
+    },
+    "dependencies": {},
+    "devDependencies": {}
+}
