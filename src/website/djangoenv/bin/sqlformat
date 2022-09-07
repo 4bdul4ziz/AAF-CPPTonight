@@ -1,5 +1,5 @@
 #!/bin/sh
-'''exec' "/Users/aman/coding stuff/AAF-CPPTonight/email verification/djangoenv/bin/python3" "$0" "$@"
+'''exec' "/Users/aman/coding stuff/AAF-CPPTonight/email verification/Email-OTP-verification-form-using-AJAX-and-JS-in-Django/djangoenv/bin/python3" "$0" "$@"
 ' '''
 # -*- coding: utf-8 -*-
 import re

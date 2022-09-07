@@ -30,7 +30,7 @@ end
 # Unset irrelevant variables.
 deactivate nondestructive
 
-set -gx VIRTUAL_ENV "/Users/aman/coding stuff/AAF-CPPTonight/email verification/djangoenv"
+set -gx VIRTUAL_ENV "/Users/aman/coding stuff/AAF-CPPTonight/email verification/Email-OTP-verification-form-using-AJAX-and-JS-in-Django/djangoenv"
 
 set -gx _OLD_VIRTUAL_PATH $PATH
 set -gx PATH "$VIRTUAL_ENV/bin" $PATH
