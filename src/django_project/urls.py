@@ -5,4 +5,5 @@ urlpatterns = [
     
     path('finsure/', include('finsure.urls')),
     path('admin/', admin.site.urls)
+    
 ]
